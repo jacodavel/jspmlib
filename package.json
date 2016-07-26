@@ -1,0 +1,13 @@
+{
+  "jspm": {
+    "dependencies": {
+      "components/jquery": "github:components/jquery@^3.1.0",
+      "jquery": "npm:jquery@^3.1.0",
+      "lodash-node": "npm:lodash-node@^3.10.2",
+      "myname": "npm:underscore@^1.8.3"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}
